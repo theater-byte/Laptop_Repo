@@ -1,2 +1,6 @@
 git clone   clone the file, text, etc.
 cd  - change Directory
+
+
+
+jujjlh
